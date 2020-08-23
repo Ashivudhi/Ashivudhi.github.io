@@ -20,29 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e031c47-58b7-47a0-ad38-a6f196e0bb11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon-fonts/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon-fonts/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon-fonts/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon-fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon-fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon-fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon-fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/circle-progress.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/jquery-2.1.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/hero.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598098091873</updated>
-      <workItem from="1598098093038" duration="15256000" />
+      <workItem from="1598098093038" duration="25032000" />
     </task>
     <servers />
   </component>
