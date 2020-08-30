@@ -1,12 +1,3 @@
-/* =================================
-------------------------------------
-	Civic - CV Resume
-	Version: 1.0
- ------------------------------------ 
- ====================================*/
-
-
-
 'use strict';
 
 
@@ -84,7 +75,7 @@ if($().circleProgress){
 
 	//Set progress circle 1
 	$("#progress1").circleProgress({
-		value: 0.75,
+		value: 0.77,
 		size: 175,
 		thickness: 2,
 		fill: "#40424a",
@@ -104,16 +95,16 @@ if($().circleProgress){
 		value: 0.75,
 		size: 175,
 		thickness: 2,
-		fill: "#ffffff",
+		fill: "##40424a",
 		emptyFill: "rgba(0, 0, 0, 0)"
 	});
 
 	//Set progress circle white
 	$("#progress4").circleProgress({
-		value: 0.83,
+		value: 0.86,
 		size: 175,
 		thickness: 2,
-		fill: "#ffffff",
+		fill: "#40424a",
 		emptyFill: "rgba(0, 0, 0, 0)"
 	});
 

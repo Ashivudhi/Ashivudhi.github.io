@@ -20,30 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e031c47-58b7-47a0-ad38-a6f196e0bb11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pictures/html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-c-plus-plus-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-c-plus-plus-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-cs-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-cs-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-css-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-css3-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-html-5-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-java-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-java-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-js-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-js-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-php-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-php-logo-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-php-logo-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-python-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-python-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-sql-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-sql-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-xml-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/icons8-xml-50.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598098091873</updated>
       <workItem from="1598098093038" duration="25032000" />
-      <workItem from="1598588920812" duration="12040000" />
+      <workItem from="1598588920812" duration="14035000" />
+      <workItem from="1598814911185" duration="1834000" />
     </task>
     <servers />
   </component>
